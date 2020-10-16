@@ -523,7 +523,7 @@ public class Calculator {
                     opt = '^';
                 }
         });
-        btnPower.setVisible(false);
+        btnPower2.setVisible(false);
         window.add(btnPower);
 
         btnLog = new JButton("log");
@@ -649,7 +649,7 @@ public class Calculator {
             return x + y;
         } else if (opt == '--') {
             return x - y;
-        } else if (opt == '*') {
+        } else if (opt == '**') {
             return x * y;
         } else if (opt == '/') {
             return x / y;
