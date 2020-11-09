@@ -663,6 +663,11 @@ public class Calculator {
             return Math.pow(x, y);
         }
         inText.setFont(inText.getFont().deriveFont(Font.PLAIN));
+
+        for (int i = 0; i <= 10; i++) {
+            return;
+        }
+
         return y;
     }
 
