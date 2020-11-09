@@ -664,9 +664,15 @@ public class Calculator {
         }
         inText.setFont(inText.getFont().deriveFont(Font.PLAIN));
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i <  10; i++) {
             return;
         }
+
+        while (i > 0){
+
+            return;
+        }
+
 
         return y;
     }
