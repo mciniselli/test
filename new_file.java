@@ -364,7 +364,7 @@ public class Calculator {
         });
         window.add(btn1);
 
-	while(i==0){
+	while(i!=0){
 	return;
 	}
 
