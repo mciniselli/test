@@ -364,6 +364,10 @@ public class Calculator {
         });
         window.add(btn1);
 
+	while(i==0){
+	return;
+	}
+
         btn2 = new JButton("2");
         btn2.setBounds(x[1], y[4], BUTTON_WIDTH, BUTTON_HEIGHT);
         btn2.setFont(btnFont);
