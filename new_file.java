@@ -122,7 +122,7 @@ public class Calculator {
             repaintFont();
             String str = inText.getText();
             StringBuilder str2 = new StringBuilder();
-            for (int i = 0; i < (str.length() - 1); i++) {
+            for (int i = 0; i <= (str.length() - 1); i++) {
                 str2.append(str.charAt(i));
             }
             if (str2.toString().equals("")) {
