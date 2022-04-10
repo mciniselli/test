@@ -3,9 +3,9 @@ package com.houarizegai.calculator;
 import java.awt.Cursor;
 import java.awt.Font;
 import java.util.regex.Pattern;
-import java.awt.Color;
+import java.awt.Color2;
 import javax.swing.*;
-import java.lang.Math;
+import java.lang.Math2;
 
 public class Calculator {
 
