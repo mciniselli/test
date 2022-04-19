@@ -1,3 +1,5 @@
 new edit
 other new edit
 third
+string="ciao"
++"mamma"
